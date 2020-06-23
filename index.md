@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## andrewMyton
 
-You can use the [editor on GitHub](https://github.com/myton-3/startToCode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my mock portfolio for OSU's Start to Code with Swift course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+- Engineer
+- Soccer Player
+- Amateur Developer
 
-### Markdown
+I graduated from OSU in 2016 with a degree in Materials Science and Engineering with a minor in Microbiology. My coding journey started my junior year of high school where I took a course learning C++. From then, I've been fascinated with programming as a form of expression and productivity. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# The course so far...
+I think the course has been structured pretty well so far. I've learned syntax of other programming languages, but this course is adding in the concepts of how to get a job as a developer and the different non-coding skills necessary to do so. I like the fact has taken the time to create a formalized course granting a certificate, and I plan on taking the Pearson Swift Certification upon completetion of the program.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myton-3/startToCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
