@@ -40,6 +40,14 @@ struct Game{
 ```
 
 ### **Calculator**
-![Apple Pie](Apple Pie.png)
-Above is the beginning or a project to build a calculator. So far, the project has consisted of setting up the UI. Using code to create a function to use a button's title as a sender to use for calculations would look sometime like
+![Calculator](Screen Shot 2020-06-22 at 11.20.20 PM.png)
+
+Above is the beginning of a project to build a calculator. So far, the project has consisted of setting up the UI. The next step would be to set the titles for the labels for the buttons. You could then create a function to use a button's title as a sender for use in calculations. It would look something like:
+
+  ```
+  @IBAction func buttonPressed(_ sender: UIButton) {
+        let digit = sender.currentTitle
+        }
+ ```
+     
 
