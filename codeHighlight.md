@@ -1,11 +1,11 @@
-### **Portfolio**
+# **Portfolio**
 
 Welcome to my mock portfolio for OSU's Start to Code with Swift course.
 
 Here you will find code snippets and highlights from projects completed in the OSU Start to Code with Swift course.
 
 
-# **Apple Pie**
+### **Apple Pie**
 ![Apple Pie](Apple Pie.png)
 
 The image above highlights a coding assignment that is in the style of a "Hangman" game. When a word is guessed, if a letter is guessed incorrectly an apple falls from the tree until there are no apples left.
