@@ -14,5 +14,5 @@ I graduated from OSU in 2016 with a degree in Materials Science and Engineering 
 I think the course has been structured pretty well so far. Working from home, I've found myself with more time on my hands, and thought I should spend it wisely. I've learned syntax of other programming languages, but this course is adding in the concepts of how to get a job as a developer and the different non-coding skills necessary to do so. I like the fact OSU has taken the time to create a formalized course granting a certificate, and I plan on taking the Pearson Swift Certification upon completetion of the program.
 
 
-To see my portfolio, [Click Here]
+To see my portfolio, [Click Here]https://myton-3.github.io/startToCode/codeHighlight
 
