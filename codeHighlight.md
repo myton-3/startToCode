@@ -38,3 +38,8 @@ struct Game{
     }
 }
 ```
+
+### **Calculator**
+![Apple Pie](Apple Pie.png)
+Above is the beginning or a project to build a calculator. So far, the project has consisted of setting up the UI. Using code to create a function to use a button's title as a sender to use for calculations would look sometime like
+
